@@ -16,7 +16,7 @@ The Service Mesh is an architectural layer responsible for ensuring the reliable
 - Galley: Handles Istio configuration validation and acts as a barrier between Istio's other components and the user configuration of the underlying platform.
 
 
-## Prerequisite
+# Prerequisite
 
 A K8s cluster - you can use Minikube or MicroK8s. Follow the instructions here https://istio.io/v1.7/docs/setup/platform-setup/
 
